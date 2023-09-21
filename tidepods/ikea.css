@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #ccc;
+}
+
+#wrap {
+    width: 70%;
+    background-color: gold;
+    margin: 0 auto;
+}
+
+img {
+    width: 50%;
+}
+
+header {
+    padding: 2%;
+    text-align: center;
+    background-color: dark ;
+    text-align: center
+}
+
+nav {
+    background-color: #0b3d91;
+}
+
+nav li {
+  display: inline;  
+}
+
+nav a {
+    color: white; 
+    font-size: 170%;
+    padding: 20px 30px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: gold;
+    background-color: #0b3d91;
+}
+nav ul {
+    margin: 0 ;
+    padding: 0 ;
+}
+section {
+    padding: 20px 60px 40px;
+}
+footer {
+    
+}
+.pod {
+    width: 60%;
+    float: right;
+    margin-top: -40px;
+}
+.button {
+    background-color: orangered;
+    color: white;
+    text-decoration: none;
+    font-size: 130%;
+    padding: 20px;
+    display: inline-block;
+   border-radius: 
+}
