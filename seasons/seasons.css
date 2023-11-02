@@ -1,0 +1,120 @@
+body{
+    margin:0;
+    padding:0;
+    background-color: white;
+font-family: Arial, sans-serif;
+}
+footer {
+    color: rebeccapurple;
+    text-align: center;
+    padding: 2%;
+}
+#wrap{
+margin: 0 auto;
+width: 75%;
+}
+header,nav, section, footer {
+    background: white;
+}
+header {
+    background-color: black;
+     color: white;
+    text-align: center;
+    font-size: 40px;
+    padding: 20px;
+}
+nav {
+    background-color: aqua
+    padding: 20px;
+    text-align: center;
+}
+nav a: hover {
+    color: black;
+    background-color: black;
+}
+nav li { 
+    display: inline;
+}
+nav a {
+    color: white
+    font-size: 300%;
+    text-decoration: none;
+    padding: 20px;
+}    
+nav ul {
+    margin: 0 ;
+    padding: 0 ;
+
+}
+img {
+    width: 100%;
+}
+#Spring nav {
+    background-color: coral;
+    padding: 10px;
+}
+#Spring nav li { display: 
+    inline;
+}
+#Spring nav a {
+    color: white
+    font-size: 300%;
+    padding: 25px 75px;
+    text-decoration: none
+}
+}
+#Fall nav {
+    background-color: yellowgreen;
+    padding: 10px;
+}
+#Fall nav li { display: 
+    inline;
+}
+#Fall nav a {
+    color: white
+    font-size: 300%;
+    padding: 25px 75px;
+    text-decoration: none
+}
+#Winter nav {
+    background-color: skyblue;
+    padding: 10px;
+}
+#Winter nav li { display: 
+    inline;
+}
+#Winter nav a {
+    color: white
+    font-size: 300%;
+    padding: 25px 75px;
+    text-decoration: none
+}
+#index nav {
+    background-color: beige;
+    padding: 10px;
+}
+#index nav li { display: 
+    inline;
+}
+#index nav a {
+    color: black
+    font-size: 300%;
+    padding: 25px 75px;
+    text-decoration: none
+}
+#Summer nav {
+    background-color: orangered;
+    padding: 10px;
+}
+#Summer nav li { display: 
+    inline;
+}
+#Summer nav a {
+    color: white
+    font-size: 300%;
+    padding: 25px 75px;
+    text-decoration: none
+section {
+    padding: 20px 60px 40px;
+}
+f
