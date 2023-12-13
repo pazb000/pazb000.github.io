@@ -1,0 +1,15 @@
+body{
+    margin:0;
+    padding:0;
+    background-color: #eee;
+}
+
+#wrap{
+    width: 50%;
+ background-color: white;
+margin: 0 auto;
+}
+
+section {
+    padding: 3%;
+}
